@@ -4,8 +4,7 @@
       
 	Accede a la página web de  **GitHub**  y sigue los pasos para registrarte y crearte una cuenta. Cuando se te pida que especifiques si eres alumno o profesor, pulsa en la opción que aparece en la parte inferior de la pantalla "skip personalization". Tras concluir el proceso de registro, crea tu primer  **repositorio**, incluyendo, de momento, un archivo Readme en el que añadas, con lenguaje de marcación, una breve explicación de la tarea, y un archivo sencillo "Hola Mundo" en el  **lenguaje de programación**  **Python**.
 
--   **Apartado 2: Conectar con la comunidad en redes sociales. Dos opciones a elegir.  
-    **
+-   **Apartado 2: Conectar con la comunidad en redes sociales. Dos opciones a elegir.**  
     -   Si tienes cuenta en  **Twitter**,
         -   Crea una lista y nómbrala con alguna alusión a la inteligencia artificial
         -   Haz una búsqueda de perfiles interesantes que compartan cosas relacionadas con la  IA  y ve añadiéndoles a la lista que has creado
